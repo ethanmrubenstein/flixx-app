@@ -9,6 +9,7 @@ Flixx is a movie and TV show tracker app which displays the current movies and T
 - **Font Awesome** for icons
 - **Swiper** library for a clean and responsive touch slider
 - Clean and readable source code for easy readability and customization
+- Integrates with [themoviedb.org](https://themoviedb.org)
 
 ## 🖥️ Preview
 
