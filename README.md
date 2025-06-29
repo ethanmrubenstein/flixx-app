@@ -59,10 +59,12 @@ Flixx uses the following libraries:
 
 All dependencies are included via CDN, so you don’t need to install anything manually.
 
+> Thanks to Tyler Brown for the [Full Screen Loader](https://codepen.io/tbrownvisuals/pen/edGYvx) CSS animation.
+
 ## ✏️ Customization Tips
 
-- Update colors and spacing in `css/styles.css`.
-- Modify text content and layout in `index.html`.
+- Update colors and spacing in `css/style.css` and `css/spinner.css`.
+- Modify text content and layout in `index.html`, `movie-details.html`, `search.html`, `shows.html`, and `tv-details.html`.
 - Customize interactive behavior in `js/script.js`.
 
 ## 📃 License
